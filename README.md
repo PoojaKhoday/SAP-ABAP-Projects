@@ -19,13 +19,13 @@ Features
 - ALV Grid Display with:
   - Auto column width optimization
   - Zebra line pattern for better readability
-- Top-of-Page Header using 'RESUSE' `REUSE_ALV_COMMENTARY_WRITE`
+- Top-of-Page Header using 'RESUSE_ALV_COMMENTARY_WRITE'
 - Displays a success or error message based on the records fetched
 
 Learning Outcomes
 By implementing this project, you will learn:
 - Defining internal tables and field catalogs
 - Using SELECT with INNER JOIN and LEFT JOIN on SAP HR tables
-- Implementing `REUSE_ALV_GRID_DISPLAY` for ALV reporting
+- Implementing 'RESUSE_ALV_GRID_DISPLAY' for ALV reporting
 - Adding ALV layout features (Zebra pattern, Column width optimization)
 - Displaying a custom ALV top-of-page header
