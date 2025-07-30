@@ -19,7 +19,7 @@ Features
 - ALV Grid Display with:
   - Auto column width optimization
   - Zebra line pattern for better readability
-- Top-of-Page Header using `REUSE_ALV_COMMENTARY_WRITE`
+- Top-of-Page Header using 'RESUSE' `REUSE_ALV_COMMENTARY_WRITE`
 - Displays a success or error message based on the records fetched
 
 Learning Outcomes
